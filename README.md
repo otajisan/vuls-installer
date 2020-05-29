@@ -33,10 +33,11 @@ https://vuls.io/
 ## Github  
 https://github.com/future-architect/vuls
 
-## そもそもVulsとは？というOverviewは以下にコンパクトにまとまっている  
+## 参考
+そもそもVulsとは？というOverviewは以下にコンパクトにまとまっている  
 https://www.ossnews.jp/oss_info/Vuls
 
-## 開発者インタビュー記事はこちら  
+開発者インタビュー記事はこちら  
 https://thinkit.co.jp/article/10092
 
 ## 周辺ソフトウェア  

@@ -1,0 +1,7 @@
+[servers]
+
+[servers.XXX]
+host         = "XXX"
+port        = "22"
+user        = "Me"
+keyPath     = "/Users/Me/.ssh/id_rsa"

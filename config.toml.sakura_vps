@@ -1,7 +1,0 @@
-[servers]
-
-[servers.sakura_vps]
-host         = "www6396uo.sakura.ne.jp"
-port        = "5150"
-user        = "mtaji"
-keyPath     = "/Users/otajisan/.ssh/id_rsa_vps_pri"
